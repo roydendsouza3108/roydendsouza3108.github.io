@@ -136,7 +136,7 @@ nav img {
   padding: 0;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: end;
   align-items: center;
   gap: 2.5rem;
 
